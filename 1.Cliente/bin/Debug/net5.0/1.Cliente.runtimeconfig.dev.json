@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Clerson\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Clerson\\.nuget\\packages"
+    ]
+  }
+}
